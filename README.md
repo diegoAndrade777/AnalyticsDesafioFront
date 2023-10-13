@@ -62,7 +62,7 @@ Para instalar as dependências, clone o projeto e rode:
 $ yarn
 $ yarn dev
 ```
-Abrirá no navegador no endereço: [http://localhost:5555/](http://localhost:5173/)
+Abrirá no navegador no endereço: [http://localhost:5173/](http://localhost:5173/)
 <h1 align="center">
     <img alt="projeto" title="PrismaStudio" src="src/assets/projeto.png" width="800px" />
 </h1>
